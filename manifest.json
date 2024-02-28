@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "我的 Notion",
+    "version": "0.0.1",
+    "description": "在搜索引擎结果中显示你的 Notion",
+    "author": "doit_2017@outloook.com",
+    "icons": {
+        "16": "icon.png",
+        "32": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "action": {
+        "default_title": "显示你的 Notion",
+        "default_icon": {
+            "16": "sprite.png",
+            "32": "sprite.png",
+            "48": "sprite.png",
+            "128": "sprite.png"
+        },
+        "default_popup": "popup.html"
+    }
+}
